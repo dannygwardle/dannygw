@@ -47,7 +47,7 @@ social:
   link: https://twitter.com/DannyGWardle
 - icon: philpapers
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://philpeople.org/profiles/danny-wardle
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
