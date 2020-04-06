@@ -65,6 +65,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Master of Philosophy candidate at the University of Adelaide. Before that, I completed a Bachelor of Arts (Advanced) at the same university.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am the Convenor of the Australasian Association of Philosophy (AAP) Postgraduate Committee.
+
+My current research focuses primarily on the metaphysics of persistence. This includes some areas that intersect with the metaphysics of persistence, such as philosophy of language and philosophy of physics. 
+
+Outside of philosophy, I enjoy scuba diving down at Port Noarlunga and Rapid Bay.
