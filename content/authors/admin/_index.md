@@ -18,7 +18,7 @@ organizations:
   url: "https://arts.adelaide.edu.au/humanities/department-of-philosophy"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am primarily  .
+bio: I am primarily.
 
 interests:
 - Artificial Intelligence
@@ -45,9 +45,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DannyGWardle
-- icon: philpapers
-  icon_pack: ai
-  link: https://philpeople.org/profiles/danny-wardle
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
