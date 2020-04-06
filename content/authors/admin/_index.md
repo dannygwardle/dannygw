@@ -29,10 +29,10 @@ education:
   courses:
   - course: MPhil in Philosophy
     institution: University of Adelaide
-    year: 2019--
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2019–
+  - course: BA(Adv.) in Philosophy and Politics/International Studies
+    institution: University of Adelaide
+    year: 2016-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
