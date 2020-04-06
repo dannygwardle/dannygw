@@ -29,7 +29,7 @@ education:
   courses:
   - course: MPhil in Philosophy
     institution: University of Adelaide
-    year: 2019&ndash; 
+    year: 2019--
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
