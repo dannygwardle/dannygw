@@ -24,7 +24,7 @@ date_format = "2006"
   title = "Convenor"
   url = ""
   date_start = "2020-01-01"
-  date_end = ""
+  date_end = "–"
   description = ""
 
 [[item]]
@@ -33,7 +33,7 @@ date_format = "2006"
   title = "Referee"
   url = ""
   date_start = "2019-07-07"
-  date_end = ""
+  date_end = "–"
   description = ""
 
 +++
