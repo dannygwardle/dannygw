@@ -21,9 +21,9 @@ organizations:
 bio: I am primarily  .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Metaphysics
+- Philosophy of Language
+- Philosophy of Physics
 
 education:
   courses:
@@ -41,10 +41,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:danny.wardle@adelaide.edu.au
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DannyGWardle
 - icon: philpapers
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
