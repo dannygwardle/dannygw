@@ -32,7 +32,7 @@ education:
     year: 2019-- (Expected: March 2021)
   - course: B.A. (Adv.) in Philosophy and Politics/International Studies
     institution: University of Adelaide
-    year: 2016-2018
+    year: 2016--2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
