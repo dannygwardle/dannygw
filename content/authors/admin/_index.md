@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MPhil in Philosophy
+    institution: University of Adelaide
+    year: 2019-- (Expected: March 2021)
+  - course: B.A. (Adv.) in Philosophy and Politics/International Studies
+    institution: University of Adelaide
+    year: 2016-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +41,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:danny.wardle@adelaide.edu.au"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/DannyGWardle
+- icon: philpapers
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://philpeople.org/profiles/danny-wardle
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +65,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Master of Philosophy candidate at the University of Adelaide. Before that, I completed a Bachelor of Arts (Advanced) at the same university.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am the Convenor of the Australasian Association of Philosophy (AAP) Postgraduate Committee.
+
+My current research focuses primarily on the metaphysics of persistence. This includes some areas that intersect with the metaphysics of persistence, such as philosophy of language and philosophy of physics (particularly quantum mechanics).
+
+Outside of philosophy, I enjoy scuba diving down at Port Noarlunga and Rapid Bay.
