@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Australasian Association of Philosophy"
+  organization = "Australasian Association of Philosophy Postgraduate Committee"
   organization_url = "https://www.aap.org.au"
   title = "Convenor"
   url = ""
