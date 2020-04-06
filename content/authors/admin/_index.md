@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Danny Wardle
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MPhil Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Adelaide
+  url: "https://arts.adelaide.edu.au/humanities/department-of-philosophy"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am primarily  .
 
 interests:
 - Artificial Intelligence
@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
