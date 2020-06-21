@@ -1,25 +1,56 @@
 
-
 +++
-# Recent and Upcoming Talks widget.
-widget = "talks"
-active = true
-date = 2016-04-20T00:00:00
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 15
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "talk"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
-# Number of talks to list.
-count = 10
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-list_format = 0
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
+    
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  
+[design.background]
 
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
 
 - **Graphs Galore! Representing Knowledge in the Sciences and Humanities**    
