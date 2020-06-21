@@ -55,6 +55,4 @@ subtitle = ""
 
 - **Social Entities, Persistence, and Identity**    
     *[Postgraduate Colloquium](https://antonyeagle.org/pg-colloquium-2020.html), University of Adelaide. July 23 2020.* 
-- **    
-
 
