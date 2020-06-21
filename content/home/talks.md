@@ -53,8 +53,8 @@ subtitle = ""
  css_class = ""
 +++
 
-- **Graphs Galore! Representing Knowledge in the Sciences and Humanities**    
-    *Carleton College. October 22, 2019.* ([Slides](https://docs.google.com/presentation/d/1gh2qpDZhjUDgV-Qo2QZrADnGxwaD2qU7k-zNSHAjvOE/edit?usp=sharing))    
-    *Macalester College. November 1, 2019.* ([Slides](https://docs.google.com/presentation/d/1LQY6P4qZJnVg-s8w0wxPzSjc3-A8nWpuyh-Z5MJ9xDc/edit?usp=sharing))
+- **Social Entities, Persistence, and Identity**    
+    *[Postgraduate Colloquium](https://antonyeagle.org/pg-colloquium-2020.html), University of Adelaide. July 23 2020.* 
+- **    
 
 
