@@ -59,6 +59,12 @@ subtitle = ""
     *[Time & Emergence](https://sites.google.com/site/sambaronphilosophy/time-and-emergence-2019?authuser=0l)*, University of Western Australia. December 17 2019.
 - **Counting for Worm Theorists**    
     *New Zealand Association of Philosophers Annual Conference*, University of Western Australia. December 9 2019.
+    
     *Australasian Postgraduate Philosophy Conference*, Victoria University of Wellington. December 7 2019.
+    
     *[Time & Other Mattters](https://philevents.org/event/show/72654)*, University of Adelaide. July 16 2019.
+    *Postgraduate Colloquium*, University of Adelaide. June 13 2019.
+- **The Meta-Metaphysics of Persistence**    
+    *Faculty of Arts Postgraduate Symposium*, University of Adelaide. December 2 2019.
+
 
