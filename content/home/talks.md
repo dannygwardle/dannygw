@@ -63,8 +63,11 @@ subtitle = ""
     *Australasian Postgraduate Philosophy Conference*, Victoria University of Wellington. December 7 2019.
     
     *[Time & Other Mattters](https://philevents.org/event/show/72654)*, University of Adelaide. July 16 2019.
+    
     *Postgraduate Colloquium*, University of Adelaide. June 13 2019.
 - **The Meta-Metaphysics of Persistence**    
     *Faculty of Arts Postgraduate Symposium*, University of Adelaide. December 2 2019.
+- **How long have you felt like this?: Identity, Temporality and Legitimacy*
+    *[South Australian Postgraduate and ECR Gender, Sex, and Sexualities Conference](https://sagenderandsexualitiesconf.files.wordpress.com/2019/09/program-2019-1.pdf)*, University of Adelaide. September 24 2019.
 
 
