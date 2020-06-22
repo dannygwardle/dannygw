@@ -68,6 +68,7 @@ subtitle = ""
 - **The Meta-Metaphysics of Persistence**    
     *Faculty of Arts Postgraduate Symposium*, University of Adelaide. December 2 2019.
 - **How long have you felt like this?: Identity, Temporality and Legitimacy**
+
     *[South Australian Postgraduate and ECR Gender, Sex, and Sexualities Conference](https://sagenderandsexualitiesconf.files.wordpress.com/2019/09/program-2019-1.pdf)*, University of Adelaide. September 24 2019.
 
 
