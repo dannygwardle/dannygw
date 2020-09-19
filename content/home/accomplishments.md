@@ -33,9 +33,8 @@ date_format = "2006"
   title = "Lead Organiser"
   url = ""
   date_start = "2020-09-01"
-  date_end = "2020-09-31"
+  date_end = ""
   description = ""
-
 
 [[item]]
   organization = "Undergraduate Philosophy Journal of Australasia"
