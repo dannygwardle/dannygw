@@ -28,7 +28,7 @@ date_format = "2006"
   description = ""
 
 [[item]]
-  organization = "God, Faith and Infinity"
+  organization = "God, Faith and Infinity (University of Adelaide"
   organization_url = "https://www.adelaide.edu.au/course-outlines/108176/1/sem-1/"
   title = "Grader"
   url = ""
