@@ -1,37 +1,39 @@
-widget = "experience"
++++
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
+title = "Employment"
+subtitle = ""
 
-# Date format for experience
+# Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+[[item]]
+  organization = "Australasian Association of Philosophy Postgraduate Committee"
+  organization_url = "https://www.aap.org.au"
+  title = "Convenor"
+  url = ""
+  date_start = "2020-01-01"
+  date_end = "2020-12-31"
+  description = ""
+
+[[item]]
+  organization = "Undergraduate Philosophy Journal of Australasia"
+  organization_url = "http://www.upja.online/"
+  title = "Referee"
+  url = ""
+  date_start = "2019-07-07"
+  date_end = ""
+  description = ""
+
++++
