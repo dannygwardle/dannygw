@@ -24,7 +24,16 @@ date_format = "2006"
   title = "Convenor"
   url = ""
   date_start = "2020-01-01"
-  date_end = "2020-12-31"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Australasian Association of Philosophy Postgraduate Committee"
+  organization_url = "https://aap.org.au/postgraduates"
+  title = "Ordinary Member"
+  url = ""
+  date_start = "2020-01-01"
+  date_end = "2021-09-01"
   description = ""
   
 [[item]]
