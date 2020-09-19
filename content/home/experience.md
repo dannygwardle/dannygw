@@ -1,5 +1,5 @@
 +++
-# Accomplishments widget.
+# Experience widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -19,20 +19,20 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Introduction to Logic –  University of Adelaide"
-  organization_url = "https://www.aap.org.au"
-  title = "Convenor"
+  organization = "Introduction to Logic (University of Adelaide)"
+  organization_url = "https://www.adelaide.edu.au/course-outlines/007743/1/sem-2/"
+  title = "Tutor"
   url = ""
   date_start = "2020-01-01"
-  date_end = "2020-12-31"
+  date_end = ""
   description = ""
 
 [[item]]
-  organization = "Undergraduate Philosophy Journal of Australasia"
-  organization_url = "http://www.upja.online/"
-  title = "Referee"
+  organization = "God, Faith and Infinity"
+  organization_url = "https://www.adelaide.edu.au/course-outlines/108176/1/sem-1/"
+  title = "Grader"
   url = ""
-  date_start = "2019-07-07"
+  date_start = "2020-07-07"
   date_end = ""
   description = ""
 
