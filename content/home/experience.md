@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of Adelaide"
   date_start = "2020"
-  date_end = ""
+  date_end = "2020"
   description = """Tutor/TA of multiple classes in a first-year introductory logic course taught by Jonathan Opie."""
 
   """
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of Adelaide"
   date_start = "2020"
-  date_end = ""
+  date_end = "2020"
   description = """Grader of student essays in a third-year philosophy of religion course taught by Antony Eagle."""
 
 +++
