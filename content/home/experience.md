@@ -3,14 +3,14 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Employment"
 subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Australasian Association of Philosophy Postgraduate Committee"
+  organization = "Introduction to Logic –  University of Adelaide"
   organization_url = "https://www.aap.org.au"
   title = "Convenor"
   url = ""
