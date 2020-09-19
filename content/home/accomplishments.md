@@ -20,12 +20,22 @@ date_format = "2006"
 
 [[item]]
   organization = "Australasian Association of Philosophy Postgraduate Committee"
-  organization_url = "https://www.aap.org.au"
+  organization_url = "https://aap.org.au/postgraduates"
   title = "Convenor"
   url = ""
   date_start = "2020-01-01"
   date_end = "2020-12-31"
   description = ""
+  
+[[item]]
+  organization = "Australasian Postgraduate Philosophy Conference"
+  organization_url = "https://aap.org.au/postgraduates"
+  title = "Lead Organiser"
+  url = ""
+  date_start = "2020-09-01"
+  date_end = "2020-09-31"
+  description = ""
+
 
 [[item]]
   organization = "Undergraduate Philosophy Journal of Australasia"
