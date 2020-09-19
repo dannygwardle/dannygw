@@ -20,7 +20,7 @@ date_format = "Jan 2006"
   company = "Introduction to Logic"
   company_url = ""
   location = "University of Adelaide"
-  date_start = "2017-01-01"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
   Responsibilities include:
