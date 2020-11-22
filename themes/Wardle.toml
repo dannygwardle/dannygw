@@ -2,7 +2,7 @@
 name = "Wardle"
 
 # Is theme light or dark?
-light = true
+dark = true
 
 # Primary
 primary = "#004225"
