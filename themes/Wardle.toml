@@ -5,7 +5,7 @@ name = "Wardle"
 light = true
 
 # Primary
-primary = #004225"
+primary = "#004225"
 
 # Menu
 menu_primary = "#004225"
