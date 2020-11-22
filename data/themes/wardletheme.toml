@@ -5,7 +5,7 @@ name = "wardletheme"
 light = true
 
 # Primary
-primary = "#004225"
+primary = "#42001D"
 
 # Menu
 menu_primary = "#004225"
