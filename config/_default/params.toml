@@ -259,6 +259,14 @@ plugins_js  = []
   engine = 2
   api_key = ""
   zoom = 15
+  
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  fab = true
+
 
 ############################
 ## Marketing
