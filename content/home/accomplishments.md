@@ -39,7 +39,7 @@ date_format = "2006"
 [[item]]
   organization = "Australasian Postgraduate Philosophy Conference"
   organization_url = "https://aap.org.au/postgraduates"
-  title = "Lead Organiser"
+  title = "Organiser"
   url = ""
   date_start = "2020-09-01"
   date_end = ""
