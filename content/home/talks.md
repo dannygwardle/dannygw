@@ -54,6 +54,7 @@ subtitle = ""
 +++
 
 - **How (Quantum) Things Persist**
+
     *[Victorian Postgraduate Philosophy Workshop](https://vppw.wordpress.com/)*, University of Melbourne. November 13 2020.
 - **Social Entities, Persistence, and Identity**    
     *[Postgraduate Colloquium](https://antonyeagle.org/pg-colloquium-2020.html)*, University of Adelaide. July 23 2020.
