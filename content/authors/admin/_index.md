@@ -67,7 +67,7 @@ user_groups:
 
 I am currently a Master of Philosophy candidate at the University of Adelaide. Before that, I completed a Bachelor of Arts (Advanced) at the same university.
 
-Currently, I am the Convenor of the Australasian Association of Philosophy (AAP) Postgraduate Committee.
+Currently, I am an Ordinary Member of the Australasian Association of Philosophy (AAP) Postgraduate Committee. In 2020, I was the Convenor.
 
 My current research focuses primarily on the metaphysics of persistence. This includes some areas that intersect with the metaphysics of persistence, such as philosophy of language and philosophy of physics. 
 
