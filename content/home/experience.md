@@ -19,8 +19,17 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Introduction to Logic (University of Adelaide)"
+  organization = "Mind and World (University of Adelaide)"
   organization_url = "https://www.adelaide.edu.au/course-outlines/007743/1/sem-2/"
+  title = "Tutor"
+  url = ""
+  date_start = "2021-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Introduction to Logic (University of Adelaide)"
+  organization_url = "https://www.adelaide.edu.au/course-outlines/009014/1/sem-1/"
   title = "Tutor"
   url = ""
   date_start = "2020-07-01"
