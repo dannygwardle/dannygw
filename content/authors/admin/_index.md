@@ -65,10 +65,10 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Master of Philosophy candidate at the University of Adelaide. Before that, I completed a Bachelor of Arts (Advanced) at the same university.
+I am currently a casual academic tutor at the University of Adelaide. In 2021, I completed a Master of Philosophy degree. My MPhil thesis consisted of three papers discussing and defending a form of perdurantism. I also discussed how perdurantists ought to respond to some issues arising from philosophy of language and non-relativistic quantum mechanics. Before that, I completed a Bachelor of Arts (Advanced) at the same university.
 
 Currently, I am an Ordinary Member of the Australasian Association of Philosophy (AAP) Postgraduate Committee. In 2020, I was the Convenor.
 
-My current research focuses primarily on the metaphysics of persistence. This includes some areas that intersect with the metaphysics of persistence, such as philosophy of language and philosophy of physics. 
+Broadly speaking, I am interested in analytic metaphysics. I am also interested in topics at the intersection of metaphysics, philosophy of physics, and philosophy of language. I am currently working on preparing some of my MPhil work for publication. 
 
 Outside of philosophy, I enjoy scuba diving down at Port Noarlunga and Rapid Bay.
