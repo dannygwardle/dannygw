@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MPhil Candidate
+role: MPhil Graduate
 
 # Organizations/Affiliations
 organizations:
