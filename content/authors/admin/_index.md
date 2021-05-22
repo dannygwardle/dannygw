@@ -29,7 +29,7 @@ education:
   courses:
   - course: MPhil in Philosophy
     institution: University of Adelaide
-    year: 2019–
+    year: 2019–2021
   - course: BA(Adv.) in Philosophy and Politics/International Studies
     institution: University of Adelaide
     year: 2016-2018
@@ -67,7 +67,7 @@ user_groups:
 
 I am currently a casual academic tutor at the University of Adelaide. In 2021, I completed a Master of Philosophy degree. My MPhil thesis consisted of three papers discussing and defending a form of perdurantism. I also discussed how perdurantists ought to respond to some issues arising from philosophy of language and non-relativistic quantum mechanics. Before that, I completed a Bachelor of Arts (Advanced) at the same university.
 
-Currently, I am an Ordinary Member of the Australasian Association of Philosophy (AAP) Postgraduate Committee. In 2020, I was the Convenor.
+I am an Ordinary Member of the Australasian Association of Philosophy (AAP) Postgraduate Committee. In 2020, I was the Convenor of that committee.
 
 Broadly speaking, I am interested in analytic metaphysics. I am also interested in topics at the intersection of metaphysics, philosophy of physics, and philosophy of language. I am currently working on preparing some of my MPhil work for publication. 
 
