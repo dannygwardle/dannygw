@@ -68,10 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a casual academic tutor at the University of Adelaide. In 2021, I completed a Master of Philosophy degree. My MPhil thesis consisted of three papers discussing and defending a form of perdurantism. I also discussed how perdurantists ought to respond to some issues arising from philosophy of language and non-relativistic quantum mechanics. Before that, I completed a Bachelor of Arts (Advanced) at the same university.
+In August 2021, I will be starting my PhD at the Dianoia Institute of Philosophy at the Australian Catholic University in Melbourne. Previously, I completed a Master of Philosophy degree at the University of Adelaide. My MPhil thesis consisted of three papers discussing perdurantist theories of persistence. Before that, I completed a Bachelor of Arts (Advanced) at Adelaide.
 
 I am an Ordinary Member of the Australasian Association of Philosophy (AAP) Postgraduate Committee. In 2020, I was the Convenor of that committee.
 
-Broadly speaking, I am interested in analytic metaphysics. I am also interested in topics at the intersection of metaphysics, philosophy of physics, and philosophy of language. I am currently working on preparing some of my MPhil work for publication. 
-
-Outside of philosophy, I enjoy scuba diving down at Port Noarlunga and Rapid Bay.
+I am interested in analytic metaphysics, broadly speaking. I am particularly interested in topics at the intersection of metaphysics, philosophy of physics, and philosophy of language. I am currently working on preparing some of my MPhil work for publication. 
