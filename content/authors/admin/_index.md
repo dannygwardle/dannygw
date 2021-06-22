@@ -33,7 +33,7 @@ education:
   - course: MPhil in Philosophy
     institution: University of Adelaide
     year: 2019–2021
-  - course: BA(Adv.) in Philosophy and Politics/International Studies
+  - course: BA(Adv.)
     institution: University of Adelaide
     year: 2016–2018
 
