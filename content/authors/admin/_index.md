@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Philosophy
-    instiution: Dianoia Institute of Philosophy – Australian Catholic University
+    institution: Dianoia Institute of Philosophy – Australian Catholic University
     year: 2021-
   - course: MPhil in Philosophy
     institution: University of Adelaide
