@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: MPhil Graduate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Adelaide
-  url: "https://arts.adelaide.edu.au/humanities/department-of-philosophy"
+- name: Dianoia Institute of Philosophy - Australian Catholic University
+  url: "https://www.acu.edu.au/research/our-research-institutes/dianoia-institute-of-philosophy"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am primarily  .
