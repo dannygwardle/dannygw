@@ -54,6 +54,7 @@ subtitle = ""
 +++
 
 - **How (Quantum) Things Persist**
+    
     *[Australasian Association of Philosophy Conference](https://aap.org.au/Conference2021)*, University of Waikato (Online). July 15 2021.
     
     *[Victorian Postgraduate Philosophy Workshop](https://vppw.wordpress.com/)*, University of Melbourne. November 13 2020.
