@@ -32,10 +32,10 @@ education:
     year: 2021-
   - course: MPhil in Philosophy
     institution: University of Adelaide
-    year: 2019–2021
+    year: 2019-2021
   - course: BA(Adv.)
     institution: University of Adelaide
-    year: 2016–2018
+    year: 2016-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
