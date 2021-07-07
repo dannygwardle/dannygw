@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 6
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -54,7 +54,8 @@ subtitle = ""
 +++
 
 - **How (Quantum) Things Persist**
-    *[Australasian Association of Philosophy Conference](https://aap.org.au/Conference2021)*, University of Waikato (Online). July 15 2021.                                   
+    *[Australasian Association of Philosophy Conference](https://aap.org.au/Conference2021)*, University of Waikato (Online). July 15 2021.
+    
     *[Victorian Postgraduate Philosophy Workshop](https://vppw.wordpress.com/)*, University of Melbourne. November 13 2020.
 - **Social Entities, Persistence, and Identity**    
     *[Postgraduate Colloquium](https://antonyeagle.org/pg-colloquium-2020.html)*, University of Adelaide. July 23 2020.
