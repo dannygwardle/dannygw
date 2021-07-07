@@ -19,6 +19,15 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Theories of Human Nature (Australian Catholic University)"
+  organization_url = "https://www.acu.edu.au/handbook/handbook-2021/unit/phil102/"
+  title = "Tutor"
+  url = ""
+  date_start = "2021-07-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "Mind and World (University of Adelaide)"
   organization_url = "https://www.adelaide.edu.au/course-outlines/007743/1/sem-2/"
   title = "Tutor"
